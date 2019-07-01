@@ -1,0 +1,1 @@
+package ecust.system.core.algorithm;import ecust.system.core.metadata.PCB;import java.util.ArrayList;public interface ProcessSchedulingAlgorithm {	// 初始化方法	void initialize(ArrayList<PCB> list);	// 执行方法	void schedule(int currentTime);	// 退出方法	void disuse();}

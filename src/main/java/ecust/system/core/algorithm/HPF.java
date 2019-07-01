@@ -1,0 +1,1 @@
+package ecust.system.core.algorithm;import ecust.system.core.metadata.PCB;import java.util.ArrayList;public class HPF implements ProcessSchedulingAlgorithm {	@Override	public void initialize(ArrayList<PCB> list) {	}	@Override	public void schedule(int currentTime) {	}	@Override	public void disuse() {	}}

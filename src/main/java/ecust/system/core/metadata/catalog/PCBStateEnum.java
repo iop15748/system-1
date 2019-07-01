@@ -1,0 +1,1 @@
+package ecust.system.core.metadata.catalog;public enum PCBStateEnum {	RUNNING,	WAITING,	FINISH}

@@ -1,0 +1,5 @@
+server:
+  port: 80
+  session-timeout: 30
+  tomcat.max-threads: 2
+  tomcat.uri-encoding: UTF-8
